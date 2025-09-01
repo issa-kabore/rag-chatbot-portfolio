@@ -124,3 +124,8 @@ This project is configured for easy and free deployment on **Streamlit Community
         GOOGLE_API_KEY="votre_clé_api_ici"
         ```
 3.  Click "Deploy\!" and Streamlit will build and launch your app. The application will be accessible via a public URL, perfect for showcasing on your portfolio.
+
+
+
+<img width="871" height="853" alt="image" src="https://github.com/user-attachments/assets/9181be1f-5bcb-4aa2-a346-af1f06b8c228" />
+
