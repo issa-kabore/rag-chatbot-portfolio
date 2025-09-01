@@ -4,6 +4,8 @@
 
 SRAXC is an AI-powered chatbot designed to answer questions about my professional portfolio, skills, and projects. It uses **Retrieval-Augmented Generation (RAG)** to provide accurate, personalized, and context-aware responses based on my personal documents.
 
+**Try the app live here: : [SRAXC](https://rag-chatbot-portfolio-ulyvhd5kadvbnsvkmnghkp.streamlit.app/)**
+
 The core technologies used in this project include:
 
   * **LangChain**: To orchestrate the RAG pipeline.
