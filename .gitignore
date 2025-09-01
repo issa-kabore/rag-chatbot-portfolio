@@ -1,3 +1,17 @@
 ./vscode/settings.json
 .venv
 .env
+.vscode
+.gradio
+
+tmp/
+rag/
+tools/
+
+*.ipynb
+
+data/portfolio.txt
+
+__pycache__/
+/*/__pycache__
+*.pyc
